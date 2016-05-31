@@ -1,5 +1,7 @@
 DELIMITER //
 
+-- Added a comment to modify this file
+
 DROP PROCEDURE IF EXISTS GetCompanyData //
 
 -- Get details for all companies or a specified company
