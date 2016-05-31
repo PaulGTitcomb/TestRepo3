@@ -4,6 +4,7 @@ DELIMITER //
 
 DROP PROCEDURE IF EXISTS GetCompanyData //
 
+-- Add a different line here for Branch2
 -- Get details for all companies or a specified company
 
 CREATE PROCEDURE GetCompanyData (IN theCompanyId INT)
